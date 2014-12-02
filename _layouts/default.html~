@@ -74,14 +74,14 @@
 		
         <footer class="foot" id="violet-foot">
             <div class="footer fn-clear">
-                <h1 class="logo">{{ site.title }}</h1>
+                <h1 class="logo">kuanso</h1>
             </div>
             <div class="copyright">
                 <div class="copyright-cnt fn-clear">
                     {% for link in site.follow %}
                     <a class="follow" href="{{ link.url }}" target="_blank"><i class="fa {{ link.class }}"></i></a>
                     {% endfor %}
-                    <p class="text">© 2014 <a href="#">blademainer</a></p>
+                    <p class="text">© 2014 <a href="#">kuanso</a></p>
                 </div>
             </div>
         </footer>
