@@ -22,7 +22,7 @@
 #u0 {
   position:absolute;
   left:416px;
-  top:14px;
+  top:68px;
   width:223px;
   height:800px;
 }
@@ -344,5 +344,26 @@
   left:10px;
   top:10px;
   width:229px;
+  word-wrap:break-word;
+}
+#u26_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:61px;
+}
+#u26 {
+  position:absolute;
+  left:128px;
+  top:310px;
+  width:300px;
+  height:61px;
+}
+#u27 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
   word-wrap:break-word;
 }
